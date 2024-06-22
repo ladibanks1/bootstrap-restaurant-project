@@ -1,0 +1,23 @@
+*{
+    color: black;
+}
+.first img{
+    object-fit: cover;
+    height:500px;
+    border-radius: 10px;
+}
+.second img{
+    object-fit: cover;
+    height:500px;
+    border-radius: 10px;
+}
+#menu img{
+    height: 400px;
+    object-fit: cover;
+}
+header{
+    background-color: black;
+}
+img{
+    border-radius: 10px;
+}
